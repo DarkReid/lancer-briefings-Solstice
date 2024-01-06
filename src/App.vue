@@ -96,6 +96,11 @@ export default {
         {
           "slug": "003",
           "name": "Downpour",
+          "status": "success"
+        },
+        {
+          "slug": "004",
+          "name": "To FOB We go",
           "status": "start"
         },
       ],
